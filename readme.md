@@ -1,20 +1,3 @@
-# Cara install 
-
-## install composer
-jalankan **composer instal** di terminal dlm direktori project laraProj
-
-## Setup Environment Variable
-- copy file .env.example dengan cara **cp .env.example .env**
-- setelah itu jalankan **php artisan key:generate**
-- jangan lupa buat database dengan nama (blog) di phpyadmin anda
-- selanjutnya setting databasenya di .env
-
-## Migrate & Seed
-- jalankan php **php artisan migrate --seed**
-
-## Run Local Dev Server
-- jalankan **php artisan serve**
-
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
@@ -53,6 +36,8 @@ We would like to extend our thanks to the following sponsors for helping fund on
 - **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
 - **[Cubet Techno Labs](https://cubettech.com)**
 - **[British Software Development](https://www.britishsoftware.co)**
+- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
+- [UserInsights](https://userinsights.com)
 - [Fragrantica](https://www.fragrantica.com)
 - [SOFTonSOFA](https://softonsofa.com/)
 - [User10](https://user10.com)
@@ -63,6 +48,9 @@ We would like to extend our thanks to the following sponsors for helping fund on
 - [Runtime Converter](http://runtimeconverter.com/)
 - [WebL'Agence](https://weblagence.com/)
 - [Invoice Ninja](https://www.invoiceninja.com)
+- [iMi digital](https://www.imi-digital.de/)
+- [Earthlink](https://www.earthlink.ro/)
+- [Steadfast Collective](https://steadfastcollective.com/)
 
 ## Contributing
 
